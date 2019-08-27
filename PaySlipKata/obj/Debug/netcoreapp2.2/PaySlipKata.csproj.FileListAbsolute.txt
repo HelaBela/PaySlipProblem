@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/bin/Debug/netcoreapp2.2/PaySlipKata.deps.json
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/bin/Debug/netcoreapp2.2/PaySlipKata.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/bin/Debug/netcoreapp2.2/PaySlipKata.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/bin/Debug/netcoreapp2.2/PaySlipKata.dll
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/bin/Debug/netcoreapp2.2/PaySlipKata.pdb
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/obj/Debug/netcoreapp2.2/PaySlipKata.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/obj/Debug/netcoreapp2.2/PaySlipKata.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/obj/Debug/netcoreapp2.2/PaySlipKata.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/obj/Debug/netcoreapp2.2/PaySlipKata.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/obj/Debug/netcoreapp2.2/PaySlipKata.dll
+/Users/helena.franczak/RiderProjects/PaySlipKata/PaySlipKata/obj/Debug/netcoreapp2.2/PaySlipKata.pdb
